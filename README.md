@@ -1,2 +1,3 @@
 # Bias-Estimation-Forest-Density
-Surveyor and analyst biases in the estimation of forest density from historical United States Public Land Surveys
+
+This is code for Charlie Cogbill's "Surveyor and analyst biases in the estimation of forest density from historical United States Public Land Surveys" manuscript
